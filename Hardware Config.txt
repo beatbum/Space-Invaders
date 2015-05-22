@@ -1,0 +1,9 @@
+Required Hardware:
+	Texas Instruments TM4C123GXL Tiva Launchpad Microcontroller
+	10kOhm Slide Potentiometer
+	1 Headphone jack
+	1 Push button
+	1 DAC (undecided final resolution size)
+	1 160x128 TFT display (ST7735) 
+
+See Circuit Diagram for assembly instructions
